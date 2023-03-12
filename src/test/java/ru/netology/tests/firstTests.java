@@ -3,15 +3,18 @@ package ru.netology.tests;
 import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import ru.netology.data.DataHelper;
+
 import static com.codeborne.selenide.Condition.exactText;
 import static com.codeborne.selenide.Selectors.byXpath;
 import static com.codeborne.selenide.Selenide.*;
 
 public class firstTests {
+    
     @BeforeEach
     void setUP() {
         Configuration.holdBrowserOpen = true;
-        open("http://localhost:8080/");
+        open(DataHelper.getTestURL());
     }
 
     @Test
