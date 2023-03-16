@@ -4,3 +4,6 @@ Thumbs.db*
 target
 .gradle
 build/
+data_mysql/
+data_postgres/
+RES/
