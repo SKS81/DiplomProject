@@ -9,11 +9,11 @@
 ## 2. Количество тест-кейсов
 
 - Всего тест-кейсов: **36**  
-![Screen1.JPG](Screen1.JPG)
+![Screen1.JPG](https://github.com/SKS81/DiplomProject/blob/main/documents/Screen1.JPG)
 - Успешных тест-кейсов: **20**  
-![Screen2.JPG](Screen2.JPG)
+![Screen2.JPG](https://github.com/SKS81/DiplomProject/blob/main/documents/Screen2.JPG)
 - Неуспешных тест-кейсов: **16**  
-![Screen3.JPG](Screen3.JPG)
+![Screen3.JPG](https://github.com/SKS81/DiplomProject/blob/main/documents/Screen3.JPG)
 ***
 ## 3. Процентное соотношение успешных/неуспешных тест-кейсов
 - Успешные: **55.55%**
